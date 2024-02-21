@@ -1,0 +1,14 @@
+body {
+  /* background-image: url('https://img.freepik.com/premium-photo/concept-online-shopping-shopping-cart-floating-laptop-3d-illustration-banner-e-commerce_522591-1459.jpg?w=1480'); */
+  background-image: url('https://img.freepik.com/free-photo/3d-illustration-smartphone-with-products-coming-out-screen-online-shopping-e-commerce-concept_58466-14529.jpg?w=1380&t=st=1701114828~exp=1701115428~hmac=78c979c29a1234e7505c03dcef945d733043b03ff9c20b25f3c3ceb88e8c708e');
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Ensure the background covers the entire viewport height */
+  margin: 0; /* Remove default body margin */
+  padding-top: 70px !important;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+

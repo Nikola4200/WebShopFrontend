@@ -1,0 +1,41 @@
+#productImg {
+    max-height: 150px;
+    width: auto;
+    object-fit: contain;
+}
+
+.paginator-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Adjust the margin as needed */
+  }
+  
+  .custom-paginator {
+    background-color: #1976D2; /* Blue background color */
+    border-radius: 8px;
+    color: #FFF; /* White text color */
+  }
+  
+  .mat-paginator-range-label,
+  .mat-paginator-page-size-label,
+  .mat-paginator-page-size-options {
+    color: #333; /* Text color for range label, page size label, and page size options */
+  }
+  
+  .mat-paginator-navigation,
+  .mat-paginator-page-size,
+  .mat-paginator-page-size-options,
+  .mat-paginator-page-size-label,
+  .mat-select-arrow-wrapper {
+    margin: 0 10px; /* Adjust the margins as needed */
+  }
+  
+  .mat-select-arrow {
+    color: #333; /* Color for the select arrow */
+  }
+  
+  .mat-paginator-page-size-options > mat-form-field {
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  
